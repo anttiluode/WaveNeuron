@@ -1,5 +1,9 @@
 ## Bug in the Machine with Wave-Based Brain and Cone of Vision
 
+Video about my crazy wave neuron filled day today: **https://www.youtube.com/watch?v=jymidvWRBWM**
+
+Wont be up for long probably. 
+
 This project features a simulated "bug" driven by a wave-based neuron model inspired by biological systems. The system uses a webcam as a sensory input to detect motion and brightness in the environment and makes movement decisions accordingly. This README provides an overview of how to set up, run, and understand the core components of the project.
 
 ## Overview
